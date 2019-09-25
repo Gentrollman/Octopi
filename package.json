@@ -1,0 +1,14 @@
+{
+  "name": "new-master",
+  "version": "1.0.0",
+  "description": "ok",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mpp-client-xt": "^1.2.0"
+  }
+}
